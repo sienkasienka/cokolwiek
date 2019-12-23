@@ -5,7 +5,6 @@ public class Main {
         System.out.println("cokolwiek");
         System.out.println("ten tekst jest wazniejszy");
         System.out.println("dodano ta linijke od testow");
-        System.out.println("2 Testy na branchu temporary  ");
     }
 
 }
